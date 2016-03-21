@@ -1,0 +1,5 @@
+D:\Programmer\RumenT\JavaScript\JavaScriptDemos\JavaScriptBasics\Advanced Functions\2. Advanced Functions\bin\_2.Advanced_Functions.dll.config
+D:\Programmer\RumenT\JavaScript\JavaScriptDemos\JavaScriptBasics\Advanced Functions\2. Advanced Functions\bin\_2.Advanced_Functions.dll
+D:\Programmer\RumenT\JavaScript\JavaScriptDemos\JavaScriptBasics\Advanced Functions\2. Advanced Functions\bin\_2.Advanced_Functions.pdb
+D:\Programmer\RumenT\JavaScript\JavaScriptDemos\JavaScriptBasics\Advanced Functions\2. Advanced Functions\obj\Debug\_2.Advanced_Functions.dll
+D:\Programmer\RumenT\JavaScript\JavaScriptDemos\JavaScriptBasics\Advanced Functions\2. Advanced Functions\obj\Debug\_2.Advanced_Functions.pdb
